@@ -1,2 +1,6 @@
 namespace: my
 name: collection
+version: 1.0.0
+readme: README.md
+authors:
+- your name <example@domain.com>
